@@ -1,6 +1,6 @@
-# 🌌 Resumify — Premium AI Resume Analyzer & Optimizer
+# 🌌 SKILL TRACE — Premium AI Resume Analyzer & Optimizer
 
-Resumify is a high-end, hyper-modern SaaS-style AI Resume Analyzer designed to optimize resumes for Applicant Tracking Systems (ATS) and provide actionable, intelligent feedback. Powered by the state-of-the-art **Llama 3.3 70B** model on **Groq API**, it features a beautiful, ultra-minimalistic glassmorphism design optimized for visual precision and corporate standards.
+Skill Trace is a high-end, hyper-modern SaaS-style AI Resume Analyzer designed to optimize resumes for Applicant Tracking Systems (ATS) and provide actionable, intelligent feedback. Powered by the state-of-the-art **Llama 3.3 70B** model on **Groq API**, it features a beautiful, ultra-minimalistic glassmorphism design optimized for visual precision and corporate standards.
 
 ---
 
